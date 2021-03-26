@@ -48,3 +48,6 @@ Also see below a summary of my **DevOps skills/experience** with links to the re
 
         AWS - EKS (Kubernetes Cluster)
         [Gitlab Repo]: https://gitlab.com/a_achter/poc-deploy-eks-cluster-using-terraform
+
+----------------
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/albert-achterkamp/albert.achterkamp.github.io)
