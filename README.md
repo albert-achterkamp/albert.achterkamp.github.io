@@ -1,13 +1,14 @@
 # albert.achterkamp.github.io
+
   ![Devops](https://img.shields.io/badge/-100%25%20DevOps-blue)
   
    ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
-   
+
    ![CI GITHUB](https://img.shields.io/badge/CI-GITHUB-black) ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
-   
+
    ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen)
 
-![LI Profile - Bert Achterkamp](files/li-prof-bert-1.PNG?raw=true "LI Profile - Bert Achterkamp")
+![LI Profile - Bert Achterkamp](files/prof-bert-3.PNG?raw=true "LI Profile - Bert Achterkamp")
 
 Hi,
 
