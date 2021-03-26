@@ -56,7 +56,7 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
     [Gitlab Repo]:<https://gitlab.com/a_achter_cicd/gitops-demo/infra/gcp> *(public)*
 
     See Screenshots of Terraform Cloud Runs here:
-    ![Screenshots of Terraform Cloud Runs] (files/gl-gitops_gcp "Screenshots of Terraform Cloud Runs")
+    ![Screenshots of Terraform Cloud Runs] (<https://github.com/albert-achterkamp/albert.achterkamp.github.io/tree/main/files/gl-gitops_gcp/> "Folder  with Screenshots of Terraform Cloud Runs")
 
 ----------------
 
