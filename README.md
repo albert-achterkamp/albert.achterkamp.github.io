@@ -38,16 +38,21 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 
 Also see below a summary of my **DevOps skills/experience** with links to the relevant Repos (most recent on top).
 
-+ Cloud Deployment with Github Actions and Terraform Cloud -
++ Cloud Deployment with Github Actions and Terraform Cloud 
 
-        AWS EC2 (Virtual Machine)
+    + AWS EC2 (Virtual Machine)      *(not yet public)*
 
-        GCP GKE (Kubernetes Cluster)
+    + GCP GKE (Kubernetes Cluster)   *(not yet public)*
 
-+ Cloud Deployments with Gitlab CI and Terraform Cloud -
++ Cloud Deployments with Gitlab CI and Terraform Cloud
+    + AWS - EKS (AWS Kubernetes Cluster)
 
-        AWS - EKS (Kubernetes Cluster)
-        [Gitlab Repo]: https://gitlab.com/a_achter/poc-deploy-eks-cluster-using-terraform
+        ~~[Gitlab Repo]: https://gitlab.com/a_achter/poc-deploy-eks-cluster-using-terraform~~  *(not yet public)*
+
+    + GCP - GKE (Google Kubernetes Cluster)
+
+        [Gitlab Repo]:https://gitlab.com/a_achter_cicd/gitops-demo/infra/gcp *(public)*
+
 
 ----------------
 
