@@ -55,7 +55,9 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 + Cloud Deployment with Github Actions and Terraform Cloud
 
   + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange)
-AWS EC2 (Virtual Machine)      *(not yet public)*
+AWS EC2 (Virtual Machine)
+
+     <https://github.com/albert-achterkamp/public-terraform-github-actions-aws>
 
   + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP GKE (Kubernetes Cluster)   *(not yet public)*
 
