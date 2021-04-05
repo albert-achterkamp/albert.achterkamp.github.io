@@ -72,11 +72,19 @@ AWS EC2 (Virtual Machine)
 
   + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP GKE (Google Kubernetes Cluster)
 
-    Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitops-demo/infra/gcp> *(public)*
+    Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitops-demo/infra/gcp>
 
     See Screenshots of Terraform Cloud Runs here:
 
     <https://github.com/albert-achterkamp/albert.achterkamp.github.io/tree/main/files/gl-gitops_gcp/>
+
+----------------
+![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
+
++ App Deployment with Gitlab CI
+  + ![Nodejs](https://img.shields.io/badge/code-JS-green) Gitlab Demo Create Nodejs App and push to Docker Registry
+
+    Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitlab-demo-create-nodejs-app> (public)
 
 ----------------
 
