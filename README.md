@@ -81,12 +81,13 @@ AWS EC2 (Virtual Machine)
 ----------------
 ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
-+ App Deployment with Gitlab CI
-  + ![Nodejs](https://img.shields.io/badge/code-JS-green) Gitlab Demo Create Nodejs App and push to Docker Registry
++ Build Image and put in Container registry with Gitlab CI
+  + ![Nodejs](https://img.shields.io/badge/code-JS-green) Gitlab Demo Create Nodejs image and push to Docker Registry
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitlab-demo-create-nodejs-app>
 
-    This image is deployed via another CI Pipeline (see above AWS - EKS: AWS Kubernetes Cluster)
+    This image can be deployed to K8S via another CI Pipeline (see above AWS - EKS: AWS Kubernetes Cluster).
+    Later this should be combined in CI environment
 
     ----------------
 
