@@ -68,7 +68,7 @@ AWS EC2 (Virtual Machine)
 + Cloud Deployments with Gitlab CI and Terraform Cloud
   + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) AWS - EKS (AWS Kubernetes Cluster)
 
-    ~~[Gitlab Repo]: <https://gitlab.com/a_achter/poc-deploy-eks-cluster-using-terraform>~~  *(not yet public)*
+    Gitlab Repo: <https://gitlab.com/a_achter_cicd/deploy-eks-cluster-using-terraform>
 
   + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP GKE (Google Kubernetes Cluster)
 
@@ -84,9 +84,11 @@ AWS EC2 (Virtual Machine)
 + App Deployment with Gitlab CI
   + ![Nodejs](https://img.shields.io/badge/code-JS-green) Gitlab Demo Create Nodejs App and push to Docker Registry
 
-    Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitlab-demo-create-nodejs-app> (public)
+    Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitlab-demo-create-nodejs-app>
 
-----------------
+    This image is deployed via another CI Pipeline (see above AWS - EKS: AWS Kubernetes Cluster)
+
+    ----------------
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falbert-achterkamp%2Falbert.achterkamp.github.io%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
