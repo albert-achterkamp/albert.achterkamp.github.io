@@ -12,7 +12,11 @@
 
 Hi,
 
-My name is Albert (Bert) Achterkamp, I am an independent Devops 'guy' (Engineer/Consultant/Architect), I work exclusively as 100% Remote freelancer
+My name is Albert (Bert) Achterkamp, I am an independent Devops Engineer/Consultant/Architect.
+
+My background is Unix/Linux System Admin - Consultant.  
+
+I work exclusively as 100% remote freelancer .
 
 Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 
