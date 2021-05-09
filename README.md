@@ -82,6 +82,14 @@ AWS EC2 (Virtual Machine)
 
     <https://github.com/albert-achterkamp/albert.achterkamp.github.io/tree/main/files/gl-gitops_gcp/>
 
+  + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP CDN (Create a static https website in GS Bucket)
+
+    Gitlab Repo: <https://gitlab.com/a_achter_cicd/gcp-secure-web-cdn-tf>
+
+    See Screenshots of Terraform Cloud Runs here:
+
+    <https://github.com/albert-achterkamp/albert.achterkamp.github.io/tree/main/files/gcp-secure-web-cdn-tf/>
+
 ----------------
 ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
