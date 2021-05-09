@@ -50,7 +50,7 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 
 ----------------
 
-## Also see below a summary of my **DevOps skills/experience** with links to the relevant Repos (most recent on top) ##
+## Also see below an overview of my **DevOps skills/experience** with links to the relevant Repos (including CI pipeline) ##
 
 ----------------
 ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
@@ -61,9 +61,11 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
   + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange)
 AWS EC2 (Virtual Machine)
 
-     <https://github.com/albert-achterkamp/public-terraform-github-actions-aws>
+    Github Repo: <https://github.com/albert-achterkamp/public-terraform-github-actions-aws>
 
-  + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP GKE (Kubernetes Cluster)   *(not yet public)*
+  + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP CDN (Create a static https website in GS Bucket)
+
+    Github Repo: <https://github.com/albert-achterkamp/gcp-secure-web-cdn-tf>
 
 ----------------
 ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
