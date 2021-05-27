@@ -93,6 +93,18 @@ AWS EC2 (Virtual Machine)
     <https://github.com/albert-achterkamp/albert.achterkamp.github.io/tree/main/files/gcp-secure-web-cdn-tf/>
 
 ----------------
+![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange)
+![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
+
++ Build docker image and put in ECR Container registry with Gitlab CI 
+  + Gitlab CI Jobs including Slack notifications
+
+      Gitlab Repo: <https://gitlab.com/a_achter_cicd/node-aws-ecs-ci>
+
+    Using aws cli to deploy to ECR.  
+    Deploy to ECS (to-do)
+
+----------------
 ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
 + Build Image and put in Container registry with Gitlab CI
