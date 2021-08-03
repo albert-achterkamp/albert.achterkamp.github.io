@@ -24,7 +24,7 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 
 ## My current portfolio includes (but is not limited to)
 
-+ ### DevOps (Linux, NO Powwershell)
++ ### DevOps (Linux, NO Powershell)
 
 + ### Cloud Infrastructure solutions (AWS/GCP)
 
