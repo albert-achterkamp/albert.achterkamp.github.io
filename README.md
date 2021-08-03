@@ -16,7 +16,7 @@ My name is Albert (Bert) Achterkamp, I am an independent Devops Engineer/Consult
 
 My background is Unix/Linux System Admin - Consultant.  
 
-I work exclusively as 100% remote freelancer .
+I work exclusively as (100% remote) freelancer .
 
 Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 
@@ -24,9 +24,9 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 
 ## My current portfolio includes (but is not limited to)
 
-+ ### DevOps
++ ### DevOps (Linux, NO Powwershell)
 
-+ ### Cloud Infrastructure solutions (AWS/GCP/Azure)
++ ### Cloud Infrastructure solutions (AWS/GCP)
 
 + ### Docker / Kubernetes
 
@@ -46,7 +46,7 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 
 + ### Only Freelance contract
 
-+ ### Only 100% Remote
++ ### Prefer 100% Remote
 
 ----------------
 
@@ -96,7 +96,7 @@ AWS EC2 (Virtual Machine)
 ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange)
 ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
-+ Build docker image and put in ECR Container registry with Gitlab CI 
++ Build docker image and put in ECR Container registry with Gitlab CI
   + Gitlab CI Jobs including Slack notifications
 
       Gitlab Repo: <https://gitlab.com/a_achter_cicd/node-aws-ecs-ci>
