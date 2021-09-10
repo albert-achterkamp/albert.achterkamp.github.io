@@ -72,13 +72,22 @@ AWS EC2 (Virtual Machine)
 ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
 + Cloud Deployments with Gitlab CI and Terraform Cloud
-  + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) AWS EKS (AWS Kubernetes Cluster)
+  + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) Deploy AWS EKS (AWS Kubernetes Cluster) with Terraform
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/deploy-eks-cluster-using-terraform>
 
-  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-Azure-blue) Azure AKS (Azure Kubernetes Cluster)
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-Azure-blue) Azure AKS (Azure Kubernetes Cluster) with Terraform
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/deploy-azure-aks-terraform>
+
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-Azure-blue) GitOps in Kubernetes: How to do it with GitLab CI and Argo CD -
+  Azure AKS (Azure Kubernetes Cluster)
+
+    Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitops-webapp>
+
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-Azure-blue) Deploy an Azure Database for PostgreSQL using Terraform
+
+    Gitlab Repo: <https://gitlab.com/a_achter_cicd/terraform-azure-postgresql>
 
   + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP GKE (Google Kubernetes Cluster)
 
