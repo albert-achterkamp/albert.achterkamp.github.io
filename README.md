@@ -6,7 +6,7 @@
 
    ![CI GITHUB](https://img.shields.io/badge/CI-GITHUB-black) ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
-   ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) ![Azure Cloud](https://img.shields.io/badge/CLOUD-Azure-blue)
+   ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue)
 
 ![LI Profile - Bert Achterkamp](files/prof-bert-3.PNG?raw=true "LI Profile - Bert Achterkamp")
 
@@ -76,16 +76,16 @@ AWS EC2 (Virtual Machine)
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/deploy-eks-cluster-using-terraform>
 
-  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-Azure-blue) Azure AKS (Azure Kubernetes Cluster) with Terraform
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) Azure AKS (Azure Kubernetes Cluster) with Terraform
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/deploy-azure-aks-terraform>
 
-  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-Azure-blue) GitOps in Kubernetes: How to do it with GitLab CI and Argo CD -
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) GitOps in Kubernetes: How to do it with GitLab CI and Argo CD -
   Azure AKS (Azure Kubernetes Cluster)
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitops-webapp>
 
-  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-Azure-blue) Deploy an Azure Database for PostgreSQL using Terraform
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) Deploy an Azure Database for PostgreSQL using Terraform
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/terraform-azure-postgresql>
 
