@@ -26,13 +26,13 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 
 + ### DevOps (Linux, NO Powershell)
 
-+ ### Cloud Infrastructure solutions (AWS/GCP)
++ ### Cloud Infrastructure solutions (AWS/Azure/GCP/Hetzner)
 
 + ### Docker / Kubernetes
 
 + ### Gitlab CI / Jenkins / Github Actions
 
-+ ### Terraform / Cloudformation
++ ### Terraform 
 
 + ### Redhat Linux / Ubuntu
 
@@ -46,7 +46,7 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 
 + ### Only Freelance contract
 
-+ ### Prefer 100% Remote
++ ### 100% Remote
 
 ----------------
 
@@ -77,6 +77,14 @@ AWS EC2 (Virtual Machine)
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/deploy-eks-cluster-using-terraform>
 
   + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) Azure AKS (Azure Kubernetes Cluster) with Terraform
+
+    Fully configured AKS cluster deployed through Terraform with Application Gateway, Azure Key Vault, Azure Container Registry, Pod Identity and Log Analytics
+
+    Gitlab Repo: <https://gitlab.com/a_achter_cicd/azure-aks-acr-key-vault-app-gw>
+
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) Azure AKS (Azure Kubernetes Cluster) with Terraform
+
+    AKS Cluster for PoC Gitops (see below)
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/deploy-azure-aks-terraform>
 
