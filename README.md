@@ -18,11 +18,11 @@ My background is Unix/Linux System Admin - Consultant.
 
 I work exclusively as (100% remote) freelancer .
 
-Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
-
 ----------------
 
-## My current portfolio includes (but is not limited to)
+## My current portfolio includes support regarding:
+
++ ### NEW - Devops Backend Development (Java / Node.js etc)
 
 + ### DevOps (Linux, NO Powershell)
 
@@ -47,6 +47,10 @@ Instead of seeing my CV here I posted a pic of the wordcloud of my CV text
 + ### Only Freelance contract
 
 + ### 100% Remote
+
++ ### Prefer direct end customer OR Only recruiters with direct end customer (in DE)
+
++ ### Hourly Rate: > 110 Euro (excl. VAT)
 
 ----------------
 
