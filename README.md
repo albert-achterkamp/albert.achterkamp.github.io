@@ -140,6 +140,7 @@ AWS EC2 (Virtual Machine)
     Deploy to ECS (to-do)
 
 ----------------
+
 ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
 + Build Image and put in Container registry with Gitlab CI
@@ -147,8 +148,20 @@ AWS EC2 (Virtual Machine)
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitlab-demo-create-nodejs-app>
 
-    This image can be deployed to K8S via another CI Pipeline (see above AWS - EKS: AWS Kubernetes Cluster).
-    Later this should be combined in CI environment
+    This image is uploaded to dockerhub every day via Gitlab CI schedule
+
+    Dockerhub: https://hub.docker.com/r/albertachterkamp/nodejs-cloud-01
+
+![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
+
++ [2022] Blog application with Spring Boot, PostgreSQL and Hibernate using GitLab CI/CD
+  + ![Nodejs](https://img.shields.io/badge/code-JAVA-purple)  GitLab CI/CD pipeline with Spring Boot
+
+    Gitlab Repo: <https://gitlab.com/a_achter_cicd/cicd-springboot/>
+
+    This image is uploaded to dockerhub every day via Gitlab CI schedule
+
+    Dockerhub: https://hub.docker.com/r/albertachterkamp/blog-api
 
     ----------------
 
