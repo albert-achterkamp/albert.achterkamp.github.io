@@ -80,6 +80,16 @@ AWS EC2 (Virtual Machine)
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/deploy-eks-cluster-using-terraform>
 
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) [2022] Azure AKS Managed Service with Config-Repo (SOPS) in Terraform
+
+    Fully configured AKS cluster deployed through Terraform with Variables defined via SOPS encrypted Git Repo (separate GL Repo from TF Code)
+
+    PRIVATE REPO - AVAILABLE UPON REQUEST Gitlab Repo: <https://gitlab.com/a_achter/ai-2022-aks/ai-terraform>   
+
+    See Screenshots of CI Pipelines / Azure Portal here:
+
+    <https://github.com/albert-achterkamp/albert.achterkamp.github.io/tree/main/files/ai-2022-aks/>
+
   + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) Azure AKS (Azure Kubernetes Cluster) with Terraform
 
     Fully configured AKS cluster deployed through Terraform with Application Gateway, Azure Key Vault, Azure Container Registry, Pod Identity and Log Analytics
