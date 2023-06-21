@@ -22,8 +22,6 @@ I work exclusively as (100% remote) freelancer .
 
 ## My current portfolio includes support regarding:
 
-+ ### NEW - Devops Backend Development (Java / Node.js etc)
-
 + ### DevOps (Linux, NO Powershell)
 
 + ### Cloud Infrastructure solutions (AWS/Azure/GCP/Hetzner)
@@ -36,21 +34,19 @@ I work exclusively as (100% remote) freelancer .
 
 + ### Redhat Linux / Ubuntu
 
-+ ### Monitoring / Logging
-
-+ ### Ansible / Puppet
++ ### Development and Deployment of apps (images) with Docker/CI and ArgoCD
 
 ----------------
 
 ## Further Info
 
-+ ### Only Freelance contract
++ ### Only Freelance assignments
 
 + ### 100% Remote
 
 + ### Prefer direct end customer OR Only recruiters with direct end customer (in DE)
 
-+ ### Hourly Rate: > 110 Euro (excl. VAT)
++ ### Hourly Rate: Market rate (ask !)
 
 ----------------
 
@@ -75,10 +71,15 @@ AWS EC2 (Virtual Machine)
 ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
 ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
-+ Cloud Deployments with Gitlab CI and Terraform Cloud
-  + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) Deploy AWS EKS (AWS Kubernetes Cluster) with Terraform
++ Cloud Deployments with Gitlab CI and Terraform
 
-    Gitlab Repo: <https://gitlab.com/a_achter_cicd/deploy-eks-cluster-using-terraform>
+    + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) [2023] GitOps with ArgoCD, EKS and GitLab CI using Terraform
+
+      Gitlab Repo: <[https://gitlab.com/a_achter_cicd/deploy-eks-cluster-using-terraform](https://gitlab.com/a_achter_cicd/gitops-with-argocd-eks-and-gitlab-ci-using-terraform.git)>
+
+----------------
+
++ Cloud Deployments with Gitlab CI and Terraform Cloud 
 
   + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) [2022] Azure AKS Managed Service with Config-Repo (SOPS) in Terraform
 
