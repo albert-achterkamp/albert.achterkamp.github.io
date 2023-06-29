@@ -2,11 +2,11 @@
 
   ![Devops](https://img.shields.io/badge/-100%25%20DevOps-blue)
   
-   ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
+   ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet) ![IaC](https://img.shields.io/badge/IaC-BICEP-blue)
 
    ![CI GITHUB](https://img.shields.io/badge/CI-GITHUB-black) ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
-   ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue)
+   ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) ![Hetzner Cloud](https://img.shields.io/badge/CLOUD-HETZNER-red)
 
 ![LI Profile - Bert Achterkamp](files/prof-bert-3.PNG?raw=true "LI Profile - Bert Achterkamp")
 
@@ -50,7 +50,17 @@ I work exclusively as (100% remote) freelancer .
 
 ----------------
 
-## Also see below an overview of my **DevOps skills/experience** with links to the relevant Repos (including CI pipeline) ##
+## Also see below an overview of my **DevOps skills/experience** with links to the relevant Repos (including CI pipelines) ##
+
+----------------
+![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
+![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
+
++ Cloud Deployments with Gitlab CI and Terraform
+
+    + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) [2023] GitOps with ArgoCD, EKS and GitLab CI using Terraform
+
+      Gitlab Repo: <[https://gitlab.com/a_achter_cicd/deploy-eks-cluster-using-terraform](https://gitlab.com/a_achter_cicd/gitops-with-argocd-eks-and-gitlab-ci-using-terraform.git)>
 
 ----------------
 ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
@@ -66,16 +76,6 @@ AWS EC2 (Virtual Machine)
   + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP CDN (Create a static https website in GS Bucket)
 
     Github Repo: <https://github.com/albert-achterkamp/gcp-secure-web-cdn-tf>
-
-----------------
-![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
-![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
-
-+ Cloud Deployments with Gitlab CI and Terraform
-
-    + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) [2023] GitOps with ArgoCD, EKS and GitLab CI using Terraform
-
-      Gitlab Repo: <[https://gitlab.com/a_achter_cicd/deploy-eks-cluster-using-terraform](https://gitlab.com/a_achter_cicd/gitops-with-argocd-eks-and-gitlab-ci-using-terraform.git)>
 
 ----------------
 
