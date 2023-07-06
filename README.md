@@ -54,16 +54,27 @@ I work exclusively as (100% remote) freelancer .
 
 ## Also see below an overview of my **DevOps skills/experience** with links to the relevant Repos (including CI pipelines) ##
 
+![IaC](https://img.shields.io/badge/IaC-BICEP-blue)
+![CI GITHUB](https://img.shields.io/badge/CI-GITHUB-black)
+
++ [2023] Deploy Bicep files by using GitHub Actions
+
+    + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) Create Storage Account in Azure with Bicep
+    
+      + [Github Repo](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions.git)
+
+      + Workflow [![Azure ARM](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions/actions/workflows/main.yml/badge.svg)](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions/actions/workflows/main.yml)
+
 ----------------
 ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
 ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
-+ Cloud Deployments with Gitlab CI and Terraform
++ [2023] Cloud Deployments with Gitlab CI and Terraform
 
     + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) [2023] GitOps with ArgoCD, EKS and GitLab CI using Terraform
 
-      Gitlab Repo: <[https://gitlab.com/a_achter_cicd/deploy-eks-cluster-using-terraform](https://gitlab.com/a_achter_cicd/gitops-with-argocd-eks-and-gitlab-ci-using-terraform.git)>
-
+      + [Gitlab Repo](https://gitlab.com/a_achter_cicd/gitops-with-argocd-eks-and-gitlab-ci-using-terraform.git)
+      
 ----------------
 ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
 ![CI GITHUB](https://img.shields.io/badge/CI-GITHUB-black)
