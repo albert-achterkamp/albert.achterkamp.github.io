@@ -58,31 +58,11 @@ I work exclusively as (100% remote) freelancer .
 |  ![IaC](https://img.shields.io/badge/IAC-grey) | ![CI](https://img.shields.io/badge/CI-grey) | ![Cloud](https://img.shields.io/badge/CLOUD-grey) | Repo Link | Description |
 | ------------- | ------------- | -- | -- | -- | 
 | ![IaC](https://img.shields.io/badge/BICEP-blue)  | ![GITHUB](https://img.shields.io/badge/GITHUB-black)  | ![Azure](https://img.shields.io/badge/AZURE-blue) | [Github Repo](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions.git)  [![Azure ARM](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions/actions/workflows/main.yml/badge.svg)](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions/actions/workflows/main.yml)| Create Storage Account in Azure with Bicep |
+| ![TF](https://img.shields.io/badge/TERRAFORM-blueviolet)  | ![GITLAB](https://img.shields.io/badge/GITLAB-red) | ![AWS Cloud](https://img.shields.io/badge/AWS-orange) | [Gitlab Repo](https://gitlab.com/a_achter_cicd/gitops-with-argocd-eks-and-gitlab-ci-using-terraform.git)| GitOps with ArgoCD, EKS and GitLab CI using Terraform |
 
 ## Also see below an overview of older Repos and CI Pipelines ##
-
-![IaC](https://img.shields.io/badge/IaC-BICEP-blue)
-![CI GITHUB](https://img.shields.io/badge/CI-GITHUB-black)
-
-+ [2023] Deploy Bicep files by using GitHub Actions
-
-    + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) Create Storage Account in Azure with Bicep
-    
-      + [Github Repo](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions.git)
-
-      + Workflow [![Azure ARM](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions/actions/workflows/main.yml/badge.svg)](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions/actions/workflows/main.yml)
-
-----------------
-![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
-![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
-
-+ [2023] Cloud Deployments with Gitlab CI and Terraform
-
-    + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) [2023] GitOps with ArgoCD, EKS and GitLab CI using Terraform
-
-      + [Gitlab Repo](https://gitlab.com/a_achter_cicd/gitops-with-argocd-eks-and-gitlab-ci-using-terraform.git)
       
-----------------
+
 ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet)
 ![CI GITHUB](https://img.shields.io/badge/CI-GITHUB-black)
 
