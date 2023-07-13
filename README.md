@@ -52,7 +52,14 @@ I work exclusively as (100% remote) freelancer .
 
 ----------------
 
-## Also see below an overview of my **DevOps skills/experience** with links to the relevant Repos (including CI pipelines) ##
+
+## [2023] REPOS + CI PIPELINES ##
+
+|  ![IaC](https://img.shields.io/badge/IAC-grey) | ![CI](https://img.shields.io/badge/CI-grey) | ![Cloud](https://img.shields.io/badge/CLOUD-grey) | Repo Link | Description |
+| ------------- | ------------- | -- | -- | -- | 
+| ![IaC](https://img.shields.io/badge/BICEP-blue)  | ![GITHUB](https://img.shields.io/badge/GITHUB-black)  | ![Azure](https://img.shields.io/badge/AZURE-blue) | [Github Repo](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions.git)  [![Azure ARM](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions/actions/workflows/main.yml/badge.svg)](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions/actions/workflows/main.yml)| Create Storage Account in Azure with Bicep |
+
+## Also see below an overview of older Repos and CI Pipelines ##
 
 ![IaC](https://img.shields.io/badge/IaC-BICEP-blue)
 ![CI GITHUB](https://img.shields.io/badge/CI-GITHUB-black)
