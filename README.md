@@ -81,12 +81,12 @@ I work exclusively as (100% remote) freelancer .
 
 + Cloud Deployment with Github Actions and Terraform Cloud
 
-  + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange)
+  + ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) [2021]
 AWS EC2 (Virtual Machine)
 
     Github Repo: <https://github.com/albert-achterkamp/public-terraform-github-actions-aws>
 
-  + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP CDN (Create a static https website in GS Bucket)
+  + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) [2021] GCP CDN (Create a static https website in GS Bucket)
 
     Github Repo: <https://github.com/albert-achterkamp/gcp-secure-web-cdn-tf>
 
@@ -104,28 +104,28 @@ AWS EC2 (Virtual Machine)
 
     <https://github.com/albert-achterkamp/albert.achterkamp.github.io/tree/main/files/ai-2022-aks/>
 
-  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) Azure AKS (Azure Kubernetes Cluster) with Terraform
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) [2022] Azure AKS (Azure Kubernetes Cluster) with Terraform
 
     Fully configured AKS cluster deployed through Terraform with Application Gateway, Azure Key Vault, Azure Container Registry, Pod Identity and Log Analytics
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/azure-aks-acr-key-vault-app-gw>
 
-  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) Azure AKS (Azure Kubernetes Cluster) with Terraform
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) [2021] Azure AKS (Azure Kubernetes Cluster) with Terraform
 
     AKS Cluster for PoC Gitops (see below)
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/deploy-azure-aks-terraform>
 
-  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) GitOps in Kubernetes: How to do it with GitLab CI and Argo CD -
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) [2021] GitOps in Kubernetes: How to do it with GitLab CI and Argo CD -
   Azure AKS (Azure Kubernetes Cluster)
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitops-webapp>
 
-  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) Deploy an Azure Database for PostgreSQL using Terraform
+  + ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) [2021] Deploy an Azure Database for PostgreSQL using Terraform
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/terraform-azure-postgresql>
 
-  + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP GKE (Google Kubernetes Cluster)
+  + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) [2021] GCP GKE (Google Kubernetes Cluster)
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitops-demo/infra/gcp>
 
@@ -133,7 +133,7 @@ AWS EC2 (Virtual Machine)
 
     <https://github.com/albert-achterkamp/albert.achterkamp.github.io/tree/main/files/gl-gitops_gcp/>
 
-  + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) GCP CDN (Create a static https website in GS Bucket)
+  + ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) [2021] GCP CDN (Create a static https website in GS Bucket)
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/gcp-secure-web-cdn-tf>
 
@@ -148,7 +148,7 @@ AWS EC2 (Virtual Machine)
 ![IaC](https://img.shields.io/badge/IaC-TERRAFORM_CDK-blueviolet)
 
 + Road Warrior VPN in Terraform CDK
-  + ![TS](https://img.shields.io/badge/code-TS-blue) Creating a Wireguard based "Road Warrior" VPN setup, provided is code to start VPN servers in either DigitalOcean or Hetzner Cloud infrastructures.
+  + ![TS](https://img.shields.io/badge/code-TS-blue) [2022] Creating a Wireguard based "Road Warrior" VPN setup, provided is code to start VPN servers in either DigitalOcean or Hetzner Cloud infrastructures.
     
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/wireguard-vpn-setup-in-terraform-cdk/-/tree/wg_1?ref_type=heads>
   
@@ -157,7 +157,7 @@ AWS EC2 (Virtual Machine)
 ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
 
 + Build docker image and put in ECR Container registry with Gitlab CI
-  + Gitlab CI Jobs including Slack notifications
+  + [2021] Gitlab CI Jobs including Slack notifications
 
       Gitlab Repo: <https://gitlab.com/a_achter_cicd/node-aws-ecs-ci>
 
@@ -170,7 +170,7 @@ AWS EC2 (Virtual Machine)
 ![LANGUAGE](https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-blue)
 
 + Build Image and put in Container registry with Gitlab CI
-  + ![Nodejs](https://img.shields.io/badge/code-JS-green) Gitlab Demo Create Nodejs image and push to Docker Registry
+  + ![Nodejs](https://img.shields.io/badge/code-JS-green) [2021] Gitlab Demo Create Nodejs image and push to Docker Registry
 
     Gitlab Repo: <https://gitlab.com/a_achter_cicd/gitlab-demo-create-nodejs-app>
 
