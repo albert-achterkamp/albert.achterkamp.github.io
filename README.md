@@ -59,6 +59,7 @@ I work exclusively as (100% remote) freelancer .
 | ------------- | ------------- | -- | -- | -- | 
 | ![IaC](https://img.shields.io/badge/BICEP-blue)  | ![Github](https://img.shields.io/badge/GITHUB-blue)  | ![Azure](https://img.shields.io/badge/AZURE-blue) | [Github Repo](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions.git)  [![Azure ARM](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions/actions/workflows/main.yml/badge.svg)](https://github.com/albert-achterkamp/Deploy-Bicep-files-by-using-GitHub-Actions/actions/workflows/main.yml)| Create Storage Account in Azure with Bicep |
 | ![Tf](https://img.shields.io/badge/TERRAFORM-blueviolet)  | ![Gitlab](https://img.shields.io/badge/GITLAB-red) | ![Aws](https://img.shields.io/badge/AWS-orange) | [Gitlab Repo](https://gitlab.com/a_achter_cicd/gitops-with-argocd-eks-and-gitlab-ci-using-terraform.git)| GitOps with ArgoCD, EKS and GitLab CI using Terraform |
+| ![Tf](https://img.shields.io/badge/TERRAFORM-blueviolet)  | ![Github](https://img.shields.io/badge/GITHUB-blue) | ![Azure](https://img.shields.io/badge/AZURE-blue) | [Github Repo](https://github.com/albert-achterkamp/azure-openai-chatgpt-application-aks-terraform/tree/aks_ai_01)| Azure OpenAI ChatGPT application on AKS via Terraform |
 
 ## Also see below an overview of older Repos and CI Pipelines ##
       
