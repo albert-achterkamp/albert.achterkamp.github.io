@@ -52,6 +52,11 @@ I work exclusively as (100% remote) freelancer .
 
 ----------------
 
+## [2024] REPOS + CI PIPELINES ##
+
+|  IAC | CI | CLOUD| Repo Link | Description |
+| ------------- | ------------- | -- | -- | -- |
+| ![Tf](https://img.shields.io/badge/TERRAFORM-blueviolet)  | ![Github](https://img.shields.io/badge/GITLAB-orange) | ![Azure](https://img.shields.io/badge/AZURE-blue) | [Gitlab Group](https://gitlab.com/azure-2024/iac-terraform)| Azure 2024 Azure Deployments |
 
 ## [2023] REPOS + CI PIPELINES ##
 
