@@ -1,16 +1,14 @@
 # albert.achterkamp.github.io
-
-  ![Devops](https://img.shields.io/badge/-100%25%20DevOps-blue)
   
-   ![IaC](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet) ![IaC](https://img.shields.io/badge/IaC-BICEP-blue)
+  <a href="https://www.achterkamp-it.consulting/" target="_blank">
+    <img src="https://www.achterkamp-it.consulting/wp-content/uploads/2023/12/achterkamp-company-logo-cropped-aic-logo-3.png" width="250">
+  </a>
 
-   ![CI GITHUB](https://img.shields.io/badge/CI-GITHUB-black) ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red)
+  ![LI Profile - Bert Achterkamp](files/prof-bert-3.PNG?raw=true "LI Profile - Bert Achterkamp")
 
-   ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) ![Hetzner Cloud](https://img.shields.io/badge/CLOUD-HETZNER-red)
-
-   ![Nodejs](https://img.shields.io/badge/code-JS-green) ![Nodejs](https://img.shields.io/badge/code-TS-blue) ![Nodejs](https://img.shields.io/badge/code-JAVA-purple)
-
-![LI Profile - Bert Achterkamp](files/prof-bert-3.PNG?raw=true "LI Profile - Bert Achterkamp")
+| Badges | Devops |
+|---|---|
+| <img src="https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png" width="150"> <br> ![Hashicorp Certified](https://img.shields.io/badge/Hashicorp-Certified-blueviolet) ![Terraform Associate](https://img.shields.io/badge/Terraform-ASSOCIATE-blue) | ![Devops](https://img.shields.io/badge/-100%25%20DevOps-blue) <br> ![IaC TERRAFORM](https://img.shields.io/badge/IaC-TERRAFORM-blueviolet) ![IaC BICEP](https://img.shields.io/badge/IaC-BICEP-blue) <br> ![CI GITHUB](https://img.shields.io/badge/CI-GITHUB-black) ![CI GITLAB](https://img.shields.io/badge/CI-GITLAB-red) <br> ![AWS Cloud](https://img.shields.io/badge/CLOUD-AWS-orange) ![GCP Cloud](https://img.shields.io/badge/CLOUD-GCP-brightgreen) <br> ![Azure Cloud](https://img.shields.io/badge/CLOUD-AZURE-blue) ![Hetzner Cloud](https://img.shields.io/badge/CLOUD-HETZNER-red) <br> ![Node.js JS](https://img.shields.io/badge/code-JS-green) ![Node.js TS](https://img.shields.io/badge/code-TS-blue) ![Node.js JAVA](https://img.shields.io/badge/code-JAVA-purple)|
 
 Hi,
 
@@ -18,7 +16,21 @@ My name is Albert (Bert) Achterkamp, I am an independent Devops Engineer/Consult
 
 My background is Unix/Linux System Admin - Consultant.  
 
-I work exclusively as (100% remote) freelancer .
+I work exclusively as (100% remote) freelancer.
+
+I am also a HashiCorp Certified: Terraform Associate (003), click on the image below to see my Badge:<br> <a href="https://www.credly.com/badges/beadb7c5-4ae0-4ace-8e11-36f4d772e1ef" target="_blank"><img src="https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png" width="100"></a>
+
+See my IaC and CI portfolio below [here](#portfolio).
+
+Other Links:
+
+<a href="https://blog.devops100.net/" target="_blank">
+    <img src="https://i0.wp.com/blog.devops100.net/wp-content/uploads/2023/11/cropped-aic-logo-3.png" width="250">
+</a>
+
+<a href="https://blog.devops100.net/" target="_blank">
+    <img src="https://www.achterkamp-it.consulting/wp-content/uploads/2023/12/achterkamp-company-logo-cropped-aic-logo-3.png" width="250">
+</a>
 
 ----------------
 
@@ -51,6 +63,7 @@ I work exclusively as (100% remote) freelancer .
 + ### Hourly Rate: Market rate (ask !)
 
 ----------------
+## IAC and CI Portfolio
 
 ## [2024] REPOS + CI PIPELINES ##
 
