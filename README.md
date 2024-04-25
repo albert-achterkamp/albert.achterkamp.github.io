@@ -63,6 +63,8 @@ Other Links:
 + ### Hourly Rate: Market rate (ask !)
 
 ----------------
+
+<span id="portfolio"></span>
 ## IAC and CI Portfolio
 
 ## [2024] REPOS + CI PIPELINES ##
